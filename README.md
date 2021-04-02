@@ -12,8 +12,10 @@ https://github.com/holmdk/Video-Prediction-using-PyTorch also deploy ConvLSTM by
 
 # How to use this repo on your dataset
 ## Open source dataset
-Rainnet
+Rainnet: in ndf format:
+
 Tianchi 2017
+
 HKO(student need their advisor to send application)
 
 ## Step.1 Data preprocess
