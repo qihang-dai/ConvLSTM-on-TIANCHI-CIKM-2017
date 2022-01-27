@@ -16,6 +16,9 @@ Majority of code comes from https://github.com/jhhuang96/ConvLSTM-PyTorch.
 https://github.com/holmdk/Video-Prediction-using-PyTorch also deploy ConvLSTM by Pytorch-lighting. The codes of models are much more concise and understandable for beginners.
 
 # How to use this repo on your dataset
+
+You need to modify the Decoder and Encoder's parameter, depends on your original matrix widths and lengths. You need to do some calculation to decide the size of each CNN layers's kernel.
+
 ## Open source dataset
 Rainnet: in ndf format:
 
