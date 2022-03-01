@@ -17,7 +17,9 @@ https://github.com/holmdk/Video-Prediction-using-PyTorch also deploy ConvLSTM by
 
 # How to use this repo on your dataset
 
-You need to modify the Decoder and Encoder's parameter, depends on your original matrix widths and lengths. You need to do some calculation to decide the size of each CNN layers's kernel.
+You need to modify the Decoder and Encoder's parameter, depends on your original matrix widths and lengths. You need to do some calculation to decide the size of each CNN layers's kernel. Thats all you need to input the data.
+
+I think the hard part of starting is to figure out what kind and format of the data you need to input.
 
 ## Open source dataset
 Rainnet: in ndf format:
